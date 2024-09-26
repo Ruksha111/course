@@ -1,5 +1,5 @@
 add and remove users 
-change the roles 
+change the roles for the users
 manage the databaseq
 login and logout
 
