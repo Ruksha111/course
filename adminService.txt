@@ -1,7 +1,9 @@
 add and remove users 
-change the roles 
+change the roles for the users
 manage the databaseq
 login and logout
 
 change1
-change2 in my database
+
+change2 in ruksha's database
+
